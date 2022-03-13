@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "email": "pedroTeste@gmail.com",
+      "password": "$2a$10$LqwRoCTHtCxFr15wcdqBXOznvaOSAYMCEGcrVDNbPtvBfhcEKtxdG",
+      "id": 1
+    }
+  ],
+  "albuns": [
+    {
+      "name": "The Dark Side Of The Moon",
+      "id": 1,
+      "band": "Pink Floyd",
+      "year": 1973
+    },
+    {
+      "name": "The Wall",
+      "id": 2,
+      "band": "Pink Floyd",
+      "year": 1979
+    },
+    {
+      "name": "Kind of Blue",
+      "id": 3,
+      "band": "Miles Davis",
+      "year": 1959
+    },
+    {
+      "name": "Conexão Japeri",
+      "id": 4,
+      "band": "Ed Motta",
+      "year": 1994
+    }
+  ],
+  "foods": [
+    {
+      "name": "Apple",
+      "price": 2,
+      "color": "red"
+    },
+    {
+      "name": "Orange",
+      "price": 1.5,
+      "color": "orange"
+    },
+    {
+      "name": "Banana",
+      "price": 1.25,
+      "color": "yellow"
+    }
+  ]
+}
